@@ -1,14 +1,13 @@
 
 
 ##CODE BOOK
-1. Field names (in bold below)  
+1. Field names (*italics below*)  
 2. Description  
 3. Type  
 4. Value  
 
   
-  
-    
+      
 ###DATA FIELDS
 
 
@@ -32,7 +31,7 @@ Values:
       
 *ALL FIELDS BELOW TAKE VALUES -1 to 1 AND ARE OF TYPE: NUMERIC*
 
-**tBodyAcc_MeanX**  
+**tBodyAcc_MeanX  **  
 Description: Mean body acceleration along X axis for activity for subject	
 
 **tBodyAcc_MeanY	**  
